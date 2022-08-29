@@ -1,10 +1,9 @@
 <h3 align="center">Frontend developer based in San Diego ☀️</h3>
 
-- 🌱 I’m currently learning **Javascript / React**
+- 🌱 Currently learning **Javascript / React**
 
-- 👨‍💻 All of my projects are available at [https://zanes-portfolio-ac79de.webflow.io](https://zanes-portfolio-ac79de.webflow.io)
+- 👨‍💻 Some of my projects are available at [https://zanes-portfolio-ac79de.webflow.io](https://zanes-portfolio-ac79de.webflow.io)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
