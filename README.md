@@ -1,6 +1,6 @@
 <h3 align="center">Frontend developer based in San Diego ☀️</h3>
 
-- 🌱 Currently learning **Javascript / React / PHP / MySQL / WordPress**
+- 🌱 Currently learning ** Javascript / React / Node.JS **
 
 - 👨‍💻 Some of my projects are available at [https://zanes-portfolio-ac79de.webflow.io](https://zanes-portfolio-ac79de.webflow.io)
 
