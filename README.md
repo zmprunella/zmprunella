@@ -1,4 +1,4 @@
-<h3 align="center">Frontend developer based in San Diego ☀️</h3>
+<h3 align="center">Software developer based in San Diego ☀️</h3>
 
 - 🌱 Currently learning ** Javascript / React / Node.JS / Express **
 
