@@ -2,8 +2,6 @@
 
 - 🌱 Currently learning ** Javascript / React / Node.JS / Express **
 
-- 👨‍💻 Some of my projects are available at [https://zanes-portfolio-ac79de.webflow.io](https://zanes-portfolio-ac79de.webflow.io)
-
 <p align="left">
 </p>
 
