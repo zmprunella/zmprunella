@@ -1,6 +1,6 @@
-<h3 align="center">Software developer based in San Diego ☀️</h3>
+<h1 align="center">Software developer based in San Diego ☀️</h1>
 
-🌱 Javascript ~ React / Node.JS ~ Express / PHP / MYSQL 🌲
+<h2 align="center">🌱 Javascript ~ React / Node.JS ~ Express / PHP / MYSQL 🌲</h2>
 
 <p align="left">
 </p>
