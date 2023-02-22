@@ -1,6 +1,6 @@
 <h3 align="center">Software Developer</h3>
 
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
