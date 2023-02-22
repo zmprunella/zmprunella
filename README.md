@@ -1,10 +1,5 @@
 <h3 align="center">Software Developer</h3>
 
-- 🌱 Languages **JavaScript**
-
-- ⚙️ Technologies **WordPress / Hubspot / Ableton**
-
-
 <p align="left">
 </p>
 
