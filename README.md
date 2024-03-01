@@ -1,4 +1,5 @@
-<h1 align="center"> 🛠 Front-end Developer 🎨</h1>
+<h1 align="center"></h1>
+
 ![Banner](cover.png)
 
 <p align="center">
