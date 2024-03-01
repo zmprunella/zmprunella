@@ -27,11 +27,7 @@
   </a> 
   <a> 
     <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg"  alt="html5" width="80" height="80"/> 
-  </a> 
-    <a> 
-    <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="html5" width="80" height="80"/> 
-  </a> 
-  
+  </a>   
   <a> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain-wordmark.svg" alt="wordpress" width="80" height="80"/> 
 </a>
