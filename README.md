@@ -1,6 +1,6 @@
 <h1 align="center"></h1>
 
-![Banner](cover.png)
+[![Banner](cover.png)](https://zaneprunella.netlify.app/)
 
 <p align="center">
 </p>
