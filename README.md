@@ -1,14 +1,13 @@
 <h1 align="center"></h1>
 
-[![Banner](cover.png)](https://zaneprunella.netlify.app/)
+[![Banner](Banner.png)](https://zaneprunella.netlify.app/)
 
 <p align="center">
 </p>
 
 <h2 align="center"> ⚙️ Working with ⚙️ <br> <br>
-  JavaScript / React / Vue / Svelte / WordPress  </h2>
-  <h4 align="center"> With a strong foundation in JavaScript, React, Vue, and Svelte, I am a skilled front-end developer with over 2 years of technical experience and over 5 years of industry experience. My expertise lies in creating dynamic web interfaces and rich user experiences, leveraging these advanced front-end technologies to bring innovative web solutions to life. 
-</h4>
+ 🛠 JavaScript / React / Vue / Svelte / WordPress 🎨 </h2>
+
 <p align="center"> 
   
   <a> 
