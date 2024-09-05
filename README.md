@@ -1,6 +1,7 @@
 <h1 align="center"></h1>
 
-[![Banner](Banner.png)](https://zaneprunella.netlify.app/)
+
+![White Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/6d718b4d-3b79-41c1-b76c-994fc8a1513e)
 
 <p align="center">
 </p>
